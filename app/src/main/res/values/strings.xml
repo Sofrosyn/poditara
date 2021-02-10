@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Podpitara</string>
+    <string name="description"><![CDATA[After logging in,you can view the latest update s of the podcasts & artistes you have followed]]></string>
+    <string name="login">Login to your Account</string>
+    <string name="sign_with">- or sign in with -</string>
+    <string name="click_to_sign_up">Don\'t have an account?</string>
+    <string name="sign_up">Create your account</string>
+    <string name="click_to_sign_in">Already have an account?</string>
+    <string name="term_conditions">Accept terms and conditions</string>
+</resources>
